@@ -1,1 +1,2 @@
 # rgb2spherical
+Link to method explanation https://www.researchgate.net/publication/330354826_CONVERTING_RGB_VALUES_TO_SPHERICAL_COORDINATES_FOR_COLOR_DETECTION_-_Not_an_academic_publication
